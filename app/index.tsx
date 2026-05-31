@@ -71,7 +71,7 @@ export default function Index() {
           </Text>
 
           <Text style={styles.normalText}>
-            <Text style={styles.boldText}>pia.napod</Text> Love it ❤️
+            <Text style={styles.boldText}>pia.napod</Text> Love it
           </Text>
 
           <Text style={styles.timeText}>1 day ago</Text>
